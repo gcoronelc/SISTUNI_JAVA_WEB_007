@@ -1,6 +1,6 @@
 ![Java Web](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JAVA_WEB_007/master/JavaWeb007.jpg)
 
-# DESARROLLADOR DE APLICACIONES WEB
+# DESARROLLADOR DE APLICACIONES JAVA WEB
 
 - Lugar: SistemasUNI
 - Horario: SABADOS Y DOMINGOS DE 15 A 21 HORAS
