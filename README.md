@@ -8,6 +8,7 @@
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/cjavadesapliweb.html
 - Página: http://gcoronelc.github.io/SISTUNI_JAVA_WEB_007/
+- Grupo oficial: https://www.facebook.com/groups/SistemasUNI/
 
 # DOCENTE
 
@@ -29,6 +30,10 @@
 - Recursos Varios: https://github.com/gcoronelc/recursos
 - Bases de Datos: https://github.com/gcoronelc/databases
 - Código fuente: https://goo.gl/GRaOQg
+- Grupo de facebook: https://www.facebook.com/groups/universidadjava/
+- Grupo de facebook: https://www.facebook.com/groups/javaframeworks/
+- Grupo de facebook: https://www.facebook.com/groups/ProyectosProcesos/
+
 
 
 # JAVA WEB
