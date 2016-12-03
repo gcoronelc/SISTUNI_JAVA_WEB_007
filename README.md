@@ -43,7 +43,12 @@
 - Lección 03 - MVC: http://goo.gl/nvLv16
 
 
+# CLASES
 
+- Clase 01: 03-DIC-2016
+- Clase 02: 04-DIC-2016
+- Clase 03: 10-DIC-2016
+- Clase 04: 11-DIC-2016
 
 
 
