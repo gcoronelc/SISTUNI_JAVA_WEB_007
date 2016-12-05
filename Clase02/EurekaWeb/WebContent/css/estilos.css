@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+html{
+	font-family:"Times New Roman", Georgia, Serif;
+	font-size: 14px;
+}
+
+body {
+	background-color: #34495e;
+	color: #ecf0f1;
+}
+
+h1{
+	color: #3498db;
+	font-size: 2em;
+	border-bottom: 2px solid #3498db; 
+}
