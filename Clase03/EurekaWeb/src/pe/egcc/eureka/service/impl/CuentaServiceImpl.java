@@ -151,7 +151,7 @@ public class CuentaServiceImpl implements CuentaServiceSpec {
       rs.close();
       pstm.close();
       // Truquito
-      Thread.currentThread().sleep(1000);
+      // Thread.currentThread().sleep(1000);
       // Paso 2: Verificar saldo
       saldo = saldo - importe;
       if(saldo < 0){
