@@ -10,6 +10,12 @@
 <link href="css/estilos.css" rel="stylesheet" type="text/css" />
 <link href="css/botones.css" rel="stylesheet" type="text/css" />
 <link href="menu/menu.css" rel="stylesheet" type="text/css" />
+<link href="jquery/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+<link href="jquery/jquery-ui.structure.min.css" rel="stylesheet" type="text/css"/>
+<link href="jquery/jquery-ui.theme.min.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery/jquery.js"></script>
+<script type="text/javascript" src="jquery/jquery-ui.min.js">
+</script>
 <title>EUREKA</title>
 </head>
 <body>
@@ -24,12 +30,17 @@
 			<jsp:include page="menu/menu.jsp" />
 		</div>
 	
-		<div class="egcc_content">Aquí va el contenido</div>
+		<div class="egcc_content" id="egcc_content">
+		Aquí va el contenido
+		</div>
 	
 		<div class="egcc_footer">
 		  <jsp:include page="footer.jsp" />
 		</div>
 
   </div>
+  
+  <script type="text/javascript" src="js/main.js"></script>
+  
 </body>
 </html>
