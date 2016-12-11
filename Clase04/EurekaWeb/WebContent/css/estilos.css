@@ -1,0 +1,58 @@
+@CHARSET "ISO-8859-1";
+
+html{
+	font-family:"Times New Roman", Georgia, Serif;
+	font-size: 14px;
+}
+
+body {
+	background-color: #34495e;
+	color: #ecf0f1;
+}
+
+h1{
+	color: #3498db;
+	font-size: 2em;
+	border-bottom: 2px solid #3498db; 
+}
+
+.egcc_page{
+  width: 900px;
+  background-color: #3498db;
+  margin: 10px auto;
+  padding: 10px;
+  color: #34495e;
+}
+
+.egcc_header{
+	width: 860px;
+	background-color: white;
+	margin: 10px;
+	padding: 10px;
+	color: #34495e;
+}
+
+.egcc_menu{
+	width: 860px;
+	background-color: #ecf0f1;
+	margin: 10px;
+	padding: 10px;
+	color: #34495e;
+}
+
+.egcc_content{
+  width: 860px;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  color: #34495e;
+}
+
+.egcc_footer{
+  width: 860px;
+  background-color: #bdc3c7;
+  margin: 10px;
+  padding: 10px;
+  color: #34495e;
+}
+
