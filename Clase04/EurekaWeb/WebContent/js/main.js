@@ -51,3 +51,7 @@ $("#menuProcRetiro").click(function(){
 $("#menuConMovimientos").click(function(){
 	$("#egcc_content").load("conMovimientos.jsp");
 });
+
+$("#menuRepoMovimientos").click(function(){
+	$("#egcc_content").load("repoMovimientos.jsp");
+});

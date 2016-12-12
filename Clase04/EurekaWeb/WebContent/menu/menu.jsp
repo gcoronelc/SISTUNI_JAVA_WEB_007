@@ -33,7 +33,7 @@
 
 		<li><a href="#">Reportes</a>
 			<ul>
-				<li><a href="#">Clientes</a></li>
+				<li><a href="#" id="menuRepoMovimientos">Movimientos</a></li>
 				<li><a href="#">Departamentos</a></li>
 				<li><a href="#">Sucursals</a></li>
 				<li><a href="#">Empleados</a></li>
